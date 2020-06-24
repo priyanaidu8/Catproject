@@ -10,6 +10,8 @@ import org.junit.jupiter.api.Test;
 class week3cattest {
 	
 	private static Cat felix;
+	//is cat a mouse or not
+	
 
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
